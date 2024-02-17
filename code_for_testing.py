@@ -1,3 +1,5 @@
+#!/usr/bin/python3
+
 import unittest
 import test_math_functions
 
