@@ -1,3 +1,5 @@
+#!/usr/bin/python3
+
 def is_not_a_number(x):
     number_classes = [int, float]
     if type(x) not in number_classes:
